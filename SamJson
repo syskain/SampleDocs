@@ -1,0 +1,14 @@
+[
+{
+"emp":"john"
+"role":"dev"
+},
+{
+"emp":"mark"
+"role":"qa"
+},
+{
+"emp":"alex"
+"role":"lead"
+}
+]
