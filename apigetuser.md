@@ -90,6 +90,7 @@ Content-length: 491
    "surname": "surname-value",
    "userPrincipalName": "userPrincipalName-value",
    "id": "id-value"
+   "job":"Tech Writer"
    
 }
 ```
